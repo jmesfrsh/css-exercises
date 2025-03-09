@@ -11,3 +11,9 @@
 .odd.three {
     font-size: 24px;
 }
+
+#number-four {
+    background-color: #0f0;
+    font-size: 24px;
+    font-weight: bold;
+}
