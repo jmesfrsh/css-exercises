@@ -5,6 +5,8 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  justify-content: center;
 }
 
 .logo {
@@ -14,10 +16,6 @@
   background: white;
   padding: 4px 32px;
   margin: 10px 0;
-}
-
-.left-links, .right-links {
-
 }
 
 ul {
