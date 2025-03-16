@@ -10,6 +10,16 @@
   align-items: center;
 }
 
+.left-links ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.right-links ul {
+  display: flex;
+  flex-direction: row;
+}
+
 .logo {
   font-size: 48px;
   font-weight: 900;
