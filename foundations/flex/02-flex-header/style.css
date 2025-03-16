@@ -10,14 +10,14 @@
   align-items: center;
 }
 
-.left-links ul {
+.left-links ul { /* First to complete */
   display: flex;
-  flex-direction: row;
+  gap: 20px;
 }
 
 .right-links ul {
   display: flex;
-  flex-direction: row;
+  gap: 20px;
 }
 
 .logo {
