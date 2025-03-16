@@ -18,9 +18,14 @@
   padding: 4px 32px;
 }
 
-.left-links {
+.left-links ul {
   display: flex;
-  
+  flex-direction: row;
+}
+
+.right-links ul {
+  display: flex;
+  flex-direction: row;
 }
 
 ul {
