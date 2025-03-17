@@ -46,10 +46,12 @@ ul li a {
 .header .left-links,
 .footer .left-links {
   display: flex;
+  gap: 10px;
 }
 
 
 .header .right-links,
 .footer .right-links {
   display: flex;
+  gap: 10px;
 }
