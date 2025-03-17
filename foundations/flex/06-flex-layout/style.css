@@ -36,3 +36,19 @@ ul li a {
   text-decoration: none;
   color: inherit;
 }
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .left-links,
+.footer .left-links {
+  display: flex;
+}
+
+
+.header .right-links,
+.footer .right-links {
+  display: flex;
+}
