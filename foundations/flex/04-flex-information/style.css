@@ -10,8 +10,13 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  justify-self: center;
+  margin-bottom: 32px;
+}
+
+.fruits {
   display: flex;
-  justify-content: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
