@@ -18,6 +18,11 @@ img {
 
 .fruits {
   display: flex;
+  gap: 52px;
+}
+
+.fruity {
+  gap: 52px;
 }
 
 
