@@ -19,8 +19,11 @@ img {
 
 .fruits {
   display: flex;
-  align-content: space-between;
   gap: 52px;
+}
+
+.fruity {
+  max-width: 400px;
 }
 
 
